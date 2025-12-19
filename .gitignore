@@ -1,8 +1,8 @@
-### IntelliJ IDEA ###
 # Track only src and .gitignore
-*
-!src/
-!.gitignore
+ *
+ !src/
+ !.gitignore
+
 
 
 
