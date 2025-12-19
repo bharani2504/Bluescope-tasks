@@ -1,4 +1,11 @@
 ### IntelliJ IDEA ###
+# Track only src and .gitignore
+*
+!src/
+!.gitignore
+
+
+
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
