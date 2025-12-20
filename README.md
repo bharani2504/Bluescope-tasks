@@ -1,6 +1,5 @@
-Bluescope Tasks – Daily Problem Solving
-
-This repository contains my daily problem-solving practice tasks focused mainly on Java
+Bluescope Tasks
+This repository is a collection of daily problem solving exercises, coding practice, learning notes, and small tasks completed for improving Java skills
 
 Repository Purpose
 Track daily task submissions
